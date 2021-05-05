@@ -1,11 +1,10 @@
 {
-  "name": "issue-blog",
+  "name": "github-issues-vue",
   "version": "1.0.0",
-  "description": "github issue blog",
-  "productName": "回家看动画",
+  "description": "github issues vue blog",
+  "productName": "GitHub Issues",
   "cordovaId": "org.cordova.quasar.app",
   "author": "ttop5 <ttop5@qq.com>",
-  "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
     "lint:fix": "eslint *.js --fix",
